@@ -8,7 +8,8 @@
 
 ## 💼 About Me
 
-I’m an aspiring **Data Scientist** and **Full Stack Developer** currently pursuing my **B.Tech in Computer Science and Engineering (Data Science)** from Gandhi Institute of Technology and Management. With hands-on experience from reputed companies like **PwC**, **Adani Ports**, and **NTT Data**, I specialize in transforming raw data into meaningful insights and building intuitive web applications.
+I'm a passionate and enthusiastic **Data Science undergraduate** currently pursuing my **B.Tech in Computer Science and Engineering (Data Science)** at Gandhi Institute of Technology and Management.  My hands-on experience through internships at industry leaders like **Adani Ports, and NTT Data Business Solutions**, has allowed me to develop real-world data solutions and interactive analytics tools.
+My commitment to making a difference is evident in my curiosity for solving real-world problems through data. Whether building **interactive dashboards or designing AI-powered tools**, I enjoy turning raw data into intuitive, impactful stories. I aim to help organizations make smarter decisions by combining strong technical skills with this deep curiosity.
 
 ---
 
@@ -16,7 +17,7 @@ I’m an aspiring **Data Scientist** and **Full Stack Developer** currently purs
 
 **Languages:** Python, R, C, SQL, Java (Fundamentals), HTML, CSS, JavaScript  
 **Technical Areas:** Data Science, Data Analytics, Data Structures & Algorithms, DBMS  
-**Tools & Frameworks:** Power BI, Tableau, Streamlit, LangChain, Flask, Visual Studio Code  
+**Tools & Frameworks:** Power BI, Tableau, Streamlit, LangChain, Visual Studio Code  
 **Soft Skills:** Goal-Oriented, Communicative, Reliable, Adaptive  
 
 ---
@@ -24,11 +25,12 @@ I’m an aspiring **Data Scientist** and **Full Stack Developer** currently purs
 ## 👩‍💻 Experience
 
 ### 🔹 PwC Salesforce Launchpad Program — *Trainee (Feb 2025 - Present)*
-- Undergoing extensive training in **Salesforce**, **Java**, **IT Infrastructure**, and **RDBMS**.
+- Currently enrolled in an intensive training program focused on **Salesforce fundamentals, IT infrastructure, Relational Database Management Systems (RDBMS), and Core Java**
 - Building foundational knowledge with hands-on exposure.
+- Training in workflow optimization, automation
 
 ### 🔹 Adani Ports & Logistics — *Data Science Intern (Jun 2025 - Jul 2025)*
-- Built **interactive Power BI dashboards** for Gate Pass Summary Reports.
+- Built **interactive Power BI dashboards** for Gate Pass Summary Reports,  identified key transaction trends, and performed in-depth analysis to derive actionable insights.
 - Developed a **Google-GenAI-powered Streamlit chatbot** to explore spreadsheet data with ease.
 
 ### 🔹 NTT Data — *Intern (Jun 2024)*
