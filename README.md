@@ -34,24 +34,43 @@ My commitment to making a difference is evident in my curiosity for solving real
 - Developed a **Google-GenAI-powered Streamlit chatbot** to explore spreadsheet data with ease.
 
 ### 🔹 NTT Data — *Intern (Jun 2024)*
-- Created dashboards in **Tableau** to derive insights from large datasets.
+- Extracted insights from datasets using **Tableau**, creating interactive dashboards to identify key trends and present actionable results.
 - Developed an AI tool named **Business Analysis Assistant** to interact with Excel data using natural language.
-
+  
 ---
 
 ## 🚀 Projects
 
 ### 💡 Business Analysis Assistant
-- An **AI Excel chatbot** that enables users to ask natural language questions on Excel sheets.
 - **Tech Stack:** Python, Streamlit, Langchain, Gemini API
+An **AI-powered Excel chatbot** designed to make data exploration in spreadsheets seamless and intuitive using natural language processing (NLP). This innovative tool allows users to **ask questions in plain English**, eliminating the need for manual filtering, complex formulas, or pivot tables when analyzing structured data. 
+
+The **project architecture** includes:
+- A Streamlit-based frontend for real-time user interaction.
+- A LangChain pipeline for managing and interpreting queries using LLMs.
+- Integration with Excel file parsers to dynamically load and query tabular data.
+- A Flask API backend that connects to Google Gemini or other LLMs to generate accurate, conversational responses.
 
 ### 🎨 Myntra HackerRamp: We For She
-- Full-stack website where users upload portraits and receive **color-based outfit recommendations**.
 - **Tech Stack:** Python, HTML, CSS, JavaScript
+A **full-stack web application** that enables users to upload their portraits and receive **personalized outfit recommendations** based on **color analysis**. This project aims to enhance the online shopping experience by **integrating fashion with AI-powered visual recognition**.
+
+The website **replicates** the core interface of a **Myntra-style shopping platform**, allowing users to:
+- Upload a portrait photo.
+- Use a **color picker** to identify their skin tone.
+- Trigger a backend **color analysis algorithm** that suggests suitable clothing color palettes.
+- Browse recommended outfits aligned with their skin shade for improved visual appeal.
+By analyzing the uploaded image, the system intelligently recommends colors that best complement the user's appearance, enhancing both the style confidence and user experience.
 
 ### 🤝 WLF Hackathon: Alumni Connect Portal
-- A dynamic web platform connecting students with alumni mentors via Google Sheets integration.
 - **Tech Stack:** Flask, Google API, HTML/CSS, JavaScript
+The Alumni Connect Portal is a **full-stack web application** developed to bridge the gap between current students and alumni mentors by providing a centralized and interactive platform for mentorship opportunities. The portal allows students to **browse, filter, and connect with alumni** based on various criteria such as **domain expertise, location**, and availability.
+
+**Key Features**:
+- Dynamically displays mentor profiles pulled from an **auto-updating Google Sheet**, ensuring real-time data accuracy.
+- Enables students to **filter mentors** using intuitive dropdowns and categories, and **apply for mentorship directly** through the platform.
+- Implements seamless **integration** between frontend and backend **using Google Sheets API** to fetch and analyze mentor data stored in spreadsheet format.
+- This solution not only streamlines the mentorship application process but also enhances alumni engagement and student career development.
 
 ---
 
