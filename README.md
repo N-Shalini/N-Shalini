@@ -24,7 +24,7 @@ My commitment to making a difference is evident in my curiosity for solving real
 
 ## 👩‍💻 Experience
 
-### 🔹 PwC Salesforce Launchpad Program — *Trainee (Feb 2025 - Present)*
+### 🔹 PwC Salesforce Launchpad Program — *Trainee (Feb 2025 - Jul 2025)*
 - Currently enrolled in an intensive training program focused on **Salesforce fundamentals, IT infrastructure, Relational Database Management Systems (RDBMS), and Core Java**
 - Building foundational knowledge with hands-on exposure.
 - Training in workflow optimization, automation
